@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    font-family: "Noto-Sans", sans-serif;
+    font-weight: 700;
+}
+
+.headline img {
+    margin-left: 199px;
+}
+
+.container {
+    padding: 50px 0;
+}
+
+a {
+    text-decoration: none;
+}

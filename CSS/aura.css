@@ -1,0 +1,40 @@
+*,:after,*:before {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background-color: #020204;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.header__line {
+	border-bottom: 1px solid #32323D;
+}
+
+.header {
+	border-bottom: 1px solid #32323D;
+}
+
+.header__line-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 30px;;
+}
+
+.header__lng {
+
+}
+
+.header__lng a {
+	
+}
+
+.header__phone {
+	
+}
